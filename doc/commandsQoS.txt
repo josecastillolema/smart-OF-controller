@@ -1,0 +1,37 @@
+myTopologySmart:  (con 1000000)
+  # tc class show dev s1-eth1
+   class htb 1:1 parent 1:fffe prio 0 rate 1000Kbit ceil 1000Kbit burst 1564b cburst 1564b
+   class htb 1:fffe root rate 1000Kbit ceil 1000Kbit burst 1500b cburst 1500b
+  # tc qdisc show dev s1-eth1
+   qdisc htb 1: root refcnt 2 r2q 10 default 1 direct_packets_stat 0
+
+myTopologySmart:  (con 50000000)
+  # tc class show dev s1-eth1
+   class htb 1:1 parent 1:fffe prio 0 rate 50000Kbit ceil 50000Kbit burst 1562b cburst 1562b
+   class htb 1:fffe root rate 50000Kbit ceil 50000Kbit burst 1500b cburst 1500b
+  # tc qdisc show dev s1-eth1
+   qdisc htb 1: root refcnt 2 r2q 10 default 1 direct_packets_stat 0
+
+myTopology:
+  # tc class show dev s1-eth1
+  # tc qdisc show dev s1-eth1
+   qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap  1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+   
+qosflownet_smart:
+  # tc class show dev s1-eth1
+   class htb 1:ffff root prio 0 rate 100000Kbit ceil 100000Kbit burst 1500b cburst 1500b 
+  # tc qdisc show dev s1-eth1
+   qdisc htb 1: root refcnt 2 r2q 10 default fffe direct_packets_stat 50
+
+ejemplo LART:
+  # tc class show dev s1-eth1
+   class htb 1:1 root rate 6000Kbit ceil 6000Kbit burst 15Kb cburst 1599b 
+   class htb 1:10 parent 1:1 prio 0 rate 5000Kbit ceil 5000Kbit burst 15Kb cburst 1600b 
+   class htb 1:20 parent 1:1 prio 0 rate 3000Kbit ceil 6000Kbit burst 15Kb cburst 1599b 
+   class htb 1:30 parent 1:1 prio 0 rate 1000bit ceil 6000Kbit burst 15Kb cburst 1599b 
+ # tc qdisc show dev s1-eth1
+   qdisc htb 1: root refcnt 2 r2q 10 default 30 direct_packets_stat 13
+
+(****************************************************************************)
+tc class change dev s1-eth1 parent 1:fffe classid 1:1 htb rate 1kbit burst 15k
+
