@@ -1,0 +1,6 @@
+QoSFlow Project
+---------------
+
+QoSFlow is an OpenFlow project to enable control of multiple packet schedulers of the Linux kernel from an OpenFlow controller. It is based on OpenFlow software switch 1.0 released by CPqD.
+
+Contact: Airton Ishimori (airton@ufpa.br)
