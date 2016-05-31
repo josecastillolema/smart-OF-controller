@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/projects/black_box/regress/test_forward_wildcard_icmp_all
+END
+run.pl
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/projects/black_box/regress/test_forward_wildcard_icmp_all/run.pl
+END

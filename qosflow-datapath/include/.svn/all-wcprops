@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/include
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/include/.gitignore
+END
+automake.mk
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/include/automake.mk
+END

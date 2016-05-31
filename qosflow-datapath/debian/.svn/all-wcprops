@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian
+END
+openflow-common.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-common.dirs
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/control
+END
+openflow-datapath-source.install
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-datapath-source.install
+END
+ofp-switch-setup
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/ofp-switch-setup
+END
+openflow-datapath-source.copyright
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-datapath-source.copyright
+END
+openflow-pki-server.install
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-pki-server.install
+END
+openflow-common.install
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-common.install
+END
+control.in
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/control.in
+END
+corekeeper.cron.daily
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/corekeeper.cron.daily
+END
+openflow-switch-config.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch-config.manpages
+END
+openflow-switch.logrotate
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.logrotate
+END
+openflow-switch-config.templates
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch-config.templates
+END
+openflow-datapath-source.README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-datapath-source.README.Debian
+END
+openflow-switch-config.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch-config.dirs
+END
+openflow-switch.install
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.install
+END
+openflow-controller.default
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-controller.default
+END
+openflow-switch-config.install
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch-config.install
+END
+openflow-pki-server.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-pki-server.postinst
+END
+openflow-switch.README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.README.Debian
+END
+openflow-switch.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.postinst
+END
+openflow-pki-server.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-pki-server.dirs
+END
+openflow-controller.install
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-controller.install
+END
+openflow-pki-server.apache2
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-pki-server.apache2
+END
+openflow-switch.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.manpages
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/compat
+END
+openflow-datapath-module-_KVERS_.postinst.modules.in
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-datapath-module-_KVERS_.postinst.modules.in
+END
+corekeeper.init
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/corekeeper.init
+END
+openflow-controller.README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-controller.README.Debian
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/changelog
+END
+ofp-switch-setup.8
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/ofp-switch-setup.8
+END
+openflow-switch.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.dirs
+END
+openflow-switch.init
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.init
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/rules
+END
+openflow-controller.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-controller.postinst
+END
+control.modules.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/control.modules.in
+END
+openflow-pki.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-pki.postinst
+END
+openflow-switch-config.overrides
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch-config.overrides
+END
+dirs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/dirs
+END
+openflow-switch.template
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.template
+END
+openflow-controller.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-controller.manpages
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/.gitignore
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/copyright
+END
+openflow-common.manpages
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-common.manpages
+END
+openflow-controller.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-controller.dirs
+END
+openflow-switch.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-switch.postrm
+END
+openflow-datapath-source.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-datapath-source.dirs
+END
+automake.mk
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/automake.mk
+END
+openflow-controller.init
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/debian/openflow-controller.init
+END

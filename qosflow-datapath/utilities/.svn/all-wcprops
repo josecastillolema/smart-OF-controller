@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities
+END
+ofp-pki.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-pki.8.in
+END
+dpctl.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/dpctl.8.in
+END
+ofp-discover.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-discover.c
+END
+vlogconf.8
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/vlogconf.8
+END
+ofp-kill.8
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-kill.8
+END
+dpctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/dpctl.c
+END
+ofp-kill.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-kill.8.in
+END
+vlogconf.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/vlogconf.8.in
+END
+ofp-parse-leaks
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-parse-leaks
+END
+vlogconf.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/vlogconf.c
+END
+ofp-kill.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-kill.c
+END
+ofp-parse-leaks.in
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-parse-leaks.in
+END
+.dirstamp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/.dirstamp
+END
+ofp-pki
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-pki
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/.gitignore
+END
+ofp-pki-cgi
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-pki-cgi
+END
+ofp-discover.8
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-discover.8
+END
+ofp-pki-cgi.in
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-pki-cgi.in
+END
+ofp-pki.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-pki.in
+END
+ofp-discover.8.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-discover.8.in
+END
+ofp-pki.8
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/ofp-pki.8
+END
+dpctl.8
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/dpctl.8
+END
+automake.mk
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/automake.mk
+END

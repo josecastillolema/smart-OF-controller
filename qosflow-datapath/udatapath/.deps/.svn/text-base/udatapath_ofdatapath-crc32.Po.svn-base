@@ -1,0 +1,29 @@
+udatapath/udatapath_ofdatapath-crc32.o: udatapath/crc32.c config.h \
+ udatapath/crc32.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.5.1/include/stdint.h \
+ /usr/include/stdint.h /usr/include/features.h /usr/include/sys/cdefs.h \
+ /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+ /usr/include/gnu/stubs-64.h /usr/include/bits/wchar.h \
+ /usr/lib/gcc/x86_64-redhat-linux/4.5.1/include/stddef.h
+
+config.h:
+
+udatapath/crc32.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.5.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/include/bits/wchar.h:
+
+/usr/lib/gcc/x86_64-redhat-linux/4.5.1/include/stddef.h:

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/hw-lib/nf2/.deps
+END
+nf2util.Po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/hw-lib/nf2/.deps/nf2util.Po
+END
+hw_flow.Po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/hw-lib/nf2/.deps/hw_flow.Po
+END
+nf2_lib.Po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/hw-lib/nf2/.deps/nf2_lib.Po
+END
+nf2_drv.Po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/hw-lib/nf2/.deps/nf2_drv.Po
+END

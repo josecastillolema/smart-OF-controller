@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps
+END
+test-hmap.Po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps/test-hmap.Po
+END
+test-stp.Po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps/test-stp.Po
+END
+.dirstamp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps/.dirstamp
+END
+test-dhcp-client.Po
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps/test-dhcp-client.Po
+END
+test-flows.Po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps/test-flows.Po
+END
+test-list.Po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps/test-list.Po
+END
+test-type-props.Po
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/tests/.deps/test-type-props.Po
+END

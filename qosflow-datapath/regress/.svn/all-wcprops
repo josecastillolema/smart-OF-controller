@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/LICENSE
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/INSTALL
+END
+CREDITS
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/CREDITS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/README
+END

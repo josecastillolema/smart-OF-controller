@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/build-aux
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/build-aux/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/build-aux/compile
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/build-aux/missing
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/build-aux/install-sh
+END

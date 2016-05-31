@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow
+END
+packet-openflow.c
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/packet-openflow.c
+END
+plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/plugin.c
+END
+Makefile.common
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/Makefile.common
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/.gitignore
+END
+moduleinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/moduleinfo.h
+END
+build_distribution_tarball.sh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/build_distribution_tarball.sh
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/utilities/wireshark_dissectors/openflow/Makefile
+END

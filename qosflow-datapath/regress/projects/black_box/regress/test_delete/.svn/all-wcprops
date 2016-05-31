@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/projects/black_box/regress/test_delete
+END
+run.pl
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/regress/projects/black_box/regress/test_delete/run.pl
+END

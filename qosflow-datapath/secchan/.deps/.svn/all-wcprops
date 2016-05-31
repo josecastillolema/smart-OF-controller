@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps
+END
+status.Po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/status.Po
+END
+.dirstamp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/.dirstamp
+END
+emerg-flow.Po
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/emerg-flow.Po
+END
+secchan.Po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/secchan.Po
+END
+discovery.Po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/discovery.Po
+END
+failover.Po
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/failover.Po
+END
+in-band.Po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/in-band.Po
+END
+stp-secchan.Po
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/stp-secchan.Po
+END
+fail-open.Po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/fail-open.Po
+END
+protocol-stat.Po
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/protocol-stat.Po
+END
+ratelimit.Po
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/ratelimit.Po
+END
+port-watcher.Po
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/qosflow/!svn/ver/70/qosflow-datapath/trunk/qosflow-datapath/secchan/.deps/port-watcher.Po
+END
