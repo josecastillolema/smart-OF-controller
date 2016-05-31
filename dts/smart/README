@@ -1,0 +1,8 @@
+Exemplo basico de execuçao:
+1. mn
+2. ./pox.py openflow.discovery samples.pretty_log dtsa-smart 
+3. (Em h1, p.ex) ./chat.py -w nomeWorkspace
+4. (Em h2, p.ex) ./chat.py -w nomeWorkspace
+
+6. Para ejecutar um chat com video: (no servidor): ./chat.py -w nomeWorkspace -vs nomeVideo.mp4
+                                    (no cliente):  ./chat.py -w nomeWorkspace -vc

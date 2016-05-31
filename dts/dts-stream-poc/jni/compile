@@ -1,0 +1,4 @@
+gcc -o libFinSocket.so -shared -Wl,-soname,libFinSocket.so \
+-I$JAVA_HOME/include \
+-I$JAVA_HOME/include/linux FinSocket.c \
+-static -lc
