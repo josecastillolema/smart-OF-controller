@@ -1,3 +1,8 @@
+![GitHub](https://img.shields.io/github/license/josecastillolema/smart-OF-controller)
+![GitHub language count](https://img.shields.io/github/languages/count/josecastillolema/josecastillolema.github.io)
+![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/josecastillolema.github.io)
+
+
 # smart-OF-controller
 
 This project aims to design and develop a clean-slate Future Internet framework called SMART (Support of Mobile Sessions with High Transport Network Resource Demand). In this framework, Software-Defined Networking mechanisms will be applied and fitted in vital aspects of the RNP (Brazilian National Research and Education Network) infrastructure, to provide a truly reliable and robust innovative provisioning system, by seeking to allow optimizing its operation and control to support mobile multimedia applications with guaranteed quality of service over the time. The SMART framework will act as a complementary communication service provider for the RNP with the following main innovations: (i) clean-slate Future Internet network architecture with new addressing methods, group-based connectivity, QoS-oriented mobility and resilience controls; (ii) IEEE 802.21 compliant signaling approach to control device handover; (iii) over-provisioning paradigm based automated, systematic and dynamic network resource allocation integrated with [OpenFlow](http://archive.openflow.org/wp/learnmore/); (iv) OpenFlow extensions to provide QoS support.
