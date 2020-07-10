@@ -8,10 +8,10 @@
 # smart-OF-controller
 
 This project aims to design and develop a clean-slate Future Internet framework called SMART (Support of Mobile Sessions with High Transport Network Resource Demand). In this framework, Software-Defined Networking mechanisms will be applied and fitted in vital aspects of the RNP (Brazilian National Research and Education Network) infrastructure, to provide a truly reliable and robust innovative provisioning system, by seeking to allow optimizing its operation and control to support mobile multimedia applications with guaranteed quality of service over the time. The SMART framework will act as a complementary communication service provider for the RNP with the following main innovations:
-    (i) clean-slate Future Internet network architecture with new addressing methods, group-based connectivity, QoS-oriented mobility and resilience controls;
-    (ii) IEEE 802.21 compliant signaling approach to control device handover;
-    (iii) over-provisioning paradigm based automated, systematic and dynamic network resource allocation integrated with [OpenFlow](http://archive.openflow.org/wp/learnmore/);
-    (iv) OpenFlow extensions to provide QoS support.
+1. clean-slate Future Internet network architecture with new addressing methods, group-based connectivity, QoS-oriented mobility and resilience controls;
+2. IEEE 802.21 compliant signaling approach to control device handover;
+3. over-provisioning paradigm based automated, systematic and dynamic network resource allocation integrated with [OpenFlow](http://archive.openflow.org/wp/learnmore/);
+4. OpenFlow extensions to provide QoS support.
 
 The details of the proposal regarding (i), (iii) and (iv) can be found in [this MSc Thesis](http://bdtd.ibict.br/vufind/Record/UFRN_7ccf2b703d54b0fd8cc548ccd747339a) and in [this paper](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7063426) [![DOI:10.1109/GLOCOMW.2014.7063426](https://zenodo.org/badge/DOI/10.1109/GLOCOMW.2014.7063426.svg)](https://doi.org/10.1109/GLOCOMW.2014.7063426)
 .
