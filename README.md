@@ -13,11 +13,15 @@ This project aims to design and develop a clean-slate Future Internet framework 
 3. over-provisioning paradigm based automated, systematic and dynamic network resource allocation integrated with [**OpenFlow**](http://archive.openflow.org/wp/learnmore/);
 4. OpenFlow extensions to provide **QoS support**.
 
+## Publications
+
 The details of the proposal regarding (1), (3) and (4) can be found in the following [MSc Thesis](http://bdtd.ibict.br/vufind/Record/UFRN_7ccf2b703d54b0fd8cc548ccd747339a) and [paper](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7063426):
 - Lema, José Castillo. **Evolving Future Internet Clean-slate Entity Title Architecture With Quality-oriented Control-plane Extensions**. 2014.
 - J. Castillo et al., "**Additions to the ETArch control plane to support multimedia QoS-guaranteed content transport over OpenFlow-enabled SDN future internet systems**", *2014 IEEE Globecom Workshops (GC Wkshps)*, Austin, TX, 2014, pp. 172-177, doi: 10.1109/GLOCOMW.2014.7063426. [![DOI:10.1109/GLOCOMW.2014.7063426](https://zenodo.org/badge/DOI/10.1109/GLOCOMW.2014.7063426.svg)](https://doi.org/10.1109/GLOCOMW.2014.7063426)
 
 The details of the proposal regarding (2) can be found in [this paper](http://www.sciencedirect.com/science/article/pii/S1389128616301177) [![DOI:10.1016/j.comnet.2016.04.019](https://zenodo.org/badge/DOI/10.1016/j.comnet.2016.04.019.svg)](https://doi.org/10.1016/j.comnet.2016.04.019).
+
+## QoSFlow
 
 In order to implement (4) [**QoSFlow**](https://groups.google.com/a/openflowhub.org/forum/#!topic/floodlight-dev/C5Z_At7deRA) was choosen. The QoSFlow project is an open-source proposal for enabling control of multiple packet schedulers in OpenFlow network design. For that, the project uses Netlink library to open a communication channel with Traffic Control subsystem of Linux kernel where packet schedulers are located. Such schedulers, or usually called queueing disciplines, are responsible to handle packets that cross the network and based on each packet scheduler particularity, different treatment to the packets can be achieved. More information can be found in [this paper](http://dl.acm.org/citation.cfm?id=2570478).
 
