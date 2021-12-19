@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/github/license/josecastillolema/smart-OF-controller)
 ![GitHub language count](https://img.shields.io/github/languages/count/josecastillolema/smart-OF-controller)
 ![GitHub top language](https://img.shields.io/github/languages/top/josecastillolema/smart-OF-controller)
-[![Requirements Status](https://requires.io/github/josecastillolema/smart-OF-controller/requirements.svg?branch=master)](https://requires.io/github/josecastillolema/smart-OF-controller/requirements/?branch=master)
+
 
 
 
